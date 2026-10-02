@@ -5,7 +5,7 @@
 
 ### Sobre mí
 
-Estudiante de programación en **INACAP** (Chile). Me mueve el **backend** —Python,
+Estudiante de programación en Chile. Me mueve el **backend** —Python,
 Django, bases de datos— y las **interfaces** bien hechas: tipografía, espaciado y
 que nada sobre. Fuera de clases mantengo mi propio entorno de escritorio en Arch,
 **Hyprland + Quickshell + Waybar**, escrito y ajustado a mano.
